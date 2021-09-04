@@ -15,7 +15,7 @@ Re-mix of the weekly topics of [ICM-2021-Code](https://github.com/ITPNYU/ICM-202
 
 - **Recap, Explore and Experiment** section added to each week.
 - Links to video tutorials via Dan Shiffman's page rather than via youtube link.
-- All sketches in editor.p5js.org with latest javascript syntax and recommended usage (eg. `console.log` used instead of `print`)
+- All sketches in editor.p5js.org with latest javascript syntax and recommended usage (eg. `let` vs. `var`, `console.log` vs. `print`)
 
 <!-- 
 
