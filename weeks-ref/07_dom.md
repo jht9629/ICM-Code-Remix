@@ -1,18 +1,10 @@
 # The DOM: HTML and CSS
-<!-- 
-https://thecodingtrain.com/Tutorials/
-https://thecodingtrain.com/Tutorials/8-html-css-dom/8.1-what-is-html.html
--->
-<!--
-https://docs.google.com/document/d/1uIiKt8huW3PJFnVQ7EtWX3hVmMibDatRDXdyYuivJxc/edit#heading=h.gjdgxs
-JHT Week 7 Worksheet
--->
 
-<!-- The videos in this section were created two years ago. They use a different editor for p5.js. All of the concepts should still apply, however, there are some minor changes. If you notice something way off, please let Dan Shiffman know! -->
+*The videos in the section were created using 2 different editors for p5.js. All of the concepts should still apply, however, there are some minor changes. Most notably in JavaScript `let` is now the preferred way to declare a variable over `var`. If you would like to learn more about this you can [watch this video about let vs var](https://youtu.be/q8SHaDQdul0).*
 
 ## Video Tutorials
 * [Code for videos below](https://github.com/CodingTrain/website/tree/master/Tutorials/P5JS/p5.js/08)
-* [Full Series on HTML / CSS / DOM](https://thecodingtrain.com/Tutorials/8-html-css-dom) <!-- https://youtu.be/URSH0QpxKo8?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX -->
+* [Full Series on HTML / CSS / DOM](https://youtu.be/URSH0QpxKo8?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
    * Basics
       * 8.1: What is HTML?
       * 8.2: Creating HTML Elements with JavaScript
@@ -56,6 +48,6 @@ JHT Week 7 Worksheet
 * [8.8: Events "changed" and "input"](https://youtu.be/ZEy0_NLhdSE?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 * [8.9: CSS Selectors](https://youtu.be/sVo8Dbii8OQ?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 * [8.10: select() and selectAll() with CSS Selectors](https://youtu.be/sSQPLIHIzmg?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
-* [8.13: Assigning a CSS Class Dynamically](https://youtu.be/KMRgLi2TBhQ?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
+* [8.13: Assigning a CSS Class Dynamicallys](https://youtu.be/KMRgLi2TBhQ?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 * [8.14: parent() and child() again with variables](https://youtu.be/4OAG_BkQcPE?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 * [p5.js Sketch as Background](https://youtu.be/OIfEHD3KqCg?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
