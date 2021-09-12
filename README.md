@@ -13,10 +13,11 @@ Re-mix of the weekly topics of [ICM-2021-Code](https://github.com/ITPNYU/ICM-202
 
 ## Changes
 
-- **Recap, Explore and Experiment** section added to each week.
+- Added **Recap, Explore and Experiment** section to each week.
 - `functions` and `DOM` used early and throughout.
 - Links to video tutorials via Dan Shiffman's page rather than via youtube link.
 - All sketches in editor.p5js.org with latest javascript syntax and recommended usage (eg. `let` vs. `var`, `console.log` vs. `print`)
+- Added graphics for Lauren Lee McCarthy's _Getting Started with p5.js_.
 
 <!-- 
 
