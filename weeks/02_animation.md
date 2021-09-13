@@ -150,7 +150,7 @@ function mouseDragged() {
 }
 ```
 
-### arithmatic on mouseX
+### arithmetic on mouseX
 
 [sketch - 2.1.2 mouseX,mouseY arith](https://editor.p5js.org/jht1493/sketches/pmA0d9Uqt) Two circles are drawn when the mouse moves in this sketch.
 
