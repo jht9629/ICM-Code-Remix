@@ -123,8 +123,7 @@ Homework Form (Responses) - ICM CODE JHT
 
 ### More on the Internets
   <!-- * [The Machine Stops](https://www.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/Machine_stops.pdf) by E. M. Forster, November 1909 -->
-  * [The Machine Stops](https://www.ele.uri.edu/faculty/vetter/Other-stuff/The-Machine-Stops.pdf), by E. M. Forster, November 1909
-
+   * [The Machine Stops](https://www.ele.uri.edu/faculty/vetter/Other-stuff/The-Machine-Stops.pdf), by E. M. Forster, November 1909
    * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
    * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
 
