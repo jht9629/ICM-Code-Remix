@@ -20,14 +20,14 @@ Worksheet 006
 
 ## tutorials: Object-Oriented Programming with Classes in JavaScript
 
-* [video -  6.1 Intro to ES6 OOP](https://thecodingtrain.com/beginners/p5js/6.1-opp-intro.html) (~2 min)  
+* [video -  6.1 Intro to ES6 OOP](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/6-objects/1-intro) (~2 min)  
 
-* [video - 6.2 Writing a Class](https://thecodingtrain.com/beginners/p5js/6.2-classes.html) (~20 min)  
+* [video - 6.2 Writing a Class](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/6-objects/2-classes) (~20 min)  
   - [sketch - two bubbles same size](https://editor.p5js.org/codingtrain/sketches/qi7N4LWq)
 
 <!-- -->
 
-* [video - 6.3 Constructor Arguments](https://thecodingtrain.com/beginners/p5js/6.3-constructor-arguments.html) (~8 min)
+* [video - 6.3 Constructor Arguments](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/6-objects/3-constructor) (~8 min)
 
   - [sketch - two bubbles different size](https://editor.p5js.org/codingtrain/sketches/HZG-lnyR)
   - [sketch - Two Gravity Ball Objects](https://editor.p5js.org/icm4.0/sketches/vshTFC6kU)  
@@ -48,19 +48,19 @@ Worksheet 006
 ## tutorials: Arrays
 
 <!-- !!@ arrays introduced with loops -->
-* [video - 7.1 What is an array?](https://thecodingtrain.com/beginners/p5js/7.1-what-is-an-array.html) (~14 min)
+* [video - 7.1 What is an array?](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/1-arrays) (~14 min)
 
     - [sketch - click for next word](https://editor.p5js.org/codingtrain/sketches/DmwVbhOZ)
 
 <!-- -->
 
-* [video - 7.2 Arrays and loops](https://thecodingtrain.com/beginners/p5js/7.2-arrays-loops.html) (~9 min)  
+* [video - 7.2 Arrays and loops](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/2-arrays-loops) (~9 min)  
 
   - [sketch - circles from array](https://editor.p5js.org/codingtrain/sketches/ZnPevren)
 
   <!-- !!@ Update to use let -->
 
-* [video - 7.3 Arrays of objects](https://thecodingtrain.com/beginners/p5js/7.3-array-of-objects.html) (~15 min)
+* [video - 7.3 Arrays of objects](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/3-arrays-objects) (~15 min)
 
   - [sketch - drag mouse for bubbles](https://editor.p5js.org/codingtrain/sketches/1y_xfueO)
   - [sketch - A Snake Following the Mouse](https://editor.p5js.org/icm/sketches/BkBsybb5X)
@@ -76,7 +76,7 @@ Worksheet 006
 
   - [sketch - bubbles click to turn gray](https://editor.p5js.org/codingtrain/sketches/lE4ypFpI)
 
-* [video - 7.5 Removing objects from arrays](https://thecodingtrain.com/beginners/p5js/7.5-removing-objects-from-array.html) (~19 min)
+* [video - 7.5 Removing objects from arrays](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/5-removing-elements) (~19 min)
   - [sketch - click to remove bubble](https://editor.p5js.org/codingtrain/sketches/smC4Jedi)
   - [sketch - drag trail of n bubbles](https://editor.p5js.org/codingtrain/sketches/9Ve9S6Mx)
   - [sketch - Interactive Stripes](http://editor.p5js.org/icm/sketches/B1ja76khW) 
@@ -85,11 +85,11 @@ Worksheet 006
 
 ## tutorials: Object "communication"
 
-* [video - 7.6: Object Communication Part 1](https://thecodingtrain.com/beginners/p5js/7.6-object-communication-1.html) (~14 min)  
+* [video - 7.6: Object Communication Part 1](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/6-object-communication-1) (~14 min)  
   - [sketch - drag bubble over small bubble](https://editor.p5js.org/codingtrain/sketches/OG-_2K16)
 
 
-* [video - 7.7: Object Communication Part 2](https://thecodingtrain.com/beginners/p5js/7.7-object-communication-2.html) (~19 min)  
+* [video - 7.7: Object Communication Part 2](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/7-object-communication-2) (~19 min)  
   - [sketch - many bubbles touch react](https://editor.p5js.org/codingtrain/sketches/7SjPmXN2)
   - [sketch - Checking Objects Intersection](http://editor.p5js.org/icm/sketches/S1BbBT13b)
 
@@ -100,7 +100,7 @@ Worksheet 006
 
 #### tutorials: Images and Objects
 
-* [7.8: Objects and Images - video tutorial](https://thecodingtrain.com/beginners/p5js/7.8-objects-and-images.html) (~17 min)  
+* [7.8: Objects and Images - video tutorial](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/8-objects-images) (~17 min)  
 
   - [sketch - MousePressed Adding New Images](http://editor.p5js.org/icm/sketches/SJzKEak3W)
 
@@ -108,14 +108,14 @@ Worksheet 006
 
 #### tutorials: Particle Systems
 
-* [video - Particle System](https://thecodingtrain.com/CodingChallenges/078-simple-particle-system.html) (~14 min)
+* [video - Particle System](https://youtu.be/UcdigVaIYAk) (~14 min)
 
   - [sketch - Particle System](https://editor.p5js.org/codingtrain/sketches/D4ty3DgZB)
 <!-- 
 https://youtu.be/UcdigVaIYAk
 https://editor.p5js.org/icm/sketches/B1d5xfS5X
 -->
-* [video - Snowfall](https://thecodingtrain.com/CodingChallenges/088-snowfall.html)
+* [video - Snowfall](https://youtu.be/cl-mHFCGzYk)
 
   - [sketch - Snowfall](https://editor.p5js.org/codingtrain/sketches/UMUPBVuH5) (~53 min)
 <!-- !!@ fails 

@@ -12,7 +12,7 @@ JHT Week 7 Worksheet
 
 ## Video Tutorials
 * [Code for videos below](https://github.com/CodingTrain/website/tree/master/Tutorials/P5JS/p5.js/08)
-* [Full Series on HTML / CSS / DOM](https://thecodingtrain.com/Tutorials/8-html-css-dom) <!-- https://youtu.be/URSH0QpxKo8?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX -->
+* [Full Series on HTML / CSS / DOM](https://youtu.be/URSH0QpxKo8?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX) <!-- https://youtu.be/URSH0QpxKo8?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX -->
    * Basics
       * 8.1: What is HTML?
       * 8.2: Creating HTML Elements with JavaScript

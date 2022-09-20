@@ -43,18 +43,18 @@ make Chapter 6 Transforms & 8 Motion optional
 * `setup()`, `draw()`, and other events: `mousePressed()`, etc.
 
 * Built-in variables
-  * [video 2.1: Variables in p5.js (mouseX, mouseY)](https://thecodingtrain.com/beginners/p5js/2.1-mousex-mousey.html) (~11 min)
+  * [video 2.1: Variables in p5.js (mouseX, mouseY)](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/2-variables/1-mouseX-mouseY) (~11 min)
   * [sketch](https://editor.p5js.org/codingtrain/sketches/IeblvUQrf)
 * User defined variables
-  * [video 2.2: Variables in p5.js (Make your own)](https://thecodingtrain.com/beginners/p5js/2.2-make-your-own.html) (~11 min)
+  * [video 2.2: Variables in p5.js (Make your own)](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/2-variables/2-define-variables) (~11 min)
   * [sketch - make your own variable](https://editor.p5js.org/codingtrain/sketches/xPXNdPy17)
   * [sketch - growing circle](https://editor.p5js.org/codingtrain/sketches/ehbMJ-otC)
 
 * Incrementing variables
-  * [video 2.3: Incrementation Operations ](https://thecodingtrain.com/beginners/p5js/2.3-incrementation-operations.html) (~5 min)
+  * [video 2.3: Incrementation Operations ](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/2-variables/3-incrementation) (~5 min)
 
 * The [random()](http://p5js.org/reference/#/p5/random) function
-  * [video 2.4: random()](https://thecodingtrain.com/beginners/p5js/2.4-random.html) (~11 min)
+  * [video 2.4: random()](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/2-variables/4-random) (~11 min)
   * [sketch - Random Square Design](https://editor.p5js.org/codingtrain/sketches/Sl8ml_Lz8)
   * [sketch - Random House Exercise](https://editor.p5js.org/codingtrain/sketches/HGq_S0Z5H)
   * [sketch - Random Points](https://editor.p5js.org/codingtrain/sketches/h7hFqoV6H)
@@ -64,7 +64,7 @@ make Chapter 6 Transforms & 8 Motion optional
   <!-- * [Rainbow Paintbrush in p5.js](https://medium.com/@kellylougheed/rainbow-paintbrush-in-p5-js-e452d5540b25) by Kelly Lougheed -->
 
 * The [map()](http://p5js.org/reference/#/p5/map) function
-  * [video 2.5: map()](https://thecodingtrain.com/beginners/p5js/2.5-map.html) (~11 min)
+  * [video 2.5: map()](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/2-variables/5-map) (~11 min)
   * [sketch](https://editor.p5js.org/codingtrain/sketches/yJqbGf71)
   * [sketch - 2.5 map function ui](https://editor.p5js.org/jht1493/sketches/OGwu_nlNh)
 
@@ -76,11 +76,11 @@ make Chapter 6 Transforms & 8 Motion optional
 
 ## tutorials: Transformations
 
-  * [video 9.1: translate](https://thecodingtrain.com/Tutorials/9-additional-topics/9.1-transformations-part-1.html) (~ 22min)
+  * [video 9.1: translate](https://youtu.be/o9sgjuh-CBM) (~ 22min)
 
-  * [video 9.2: scale](https://thecodingtrain.com/Tutorials/9-additional-topics/9.2-transformations-part-2.html) (~ 9 min)
+  * [video 9.2: scale](https://youtu.be/pkHZTWOoTLM) (~ 9 min)
 
-  * [video 9.3: More on transformations](https://thecodingtrain.com/Tutorials/9-additional-topics/9.3-transformations-art-3.html) (~ 9 min)
+  * [video 9.3: More on transformations](https://youtu.be/IVMvq9rd8dA) (~ 9 min)
 
   <!-- * [video 9.1: `translate()`, `rotate()`, `push()`, `pop()`](https://youtu.be/o9sgjuh-CBM)
   * [video 9.2: `scale()`](https://youtu.be/pkHZTWOoTLM)

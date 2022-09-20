@@ -1,4 +1,4 @@
-# ICM-2021-Code-Remix
+# ICM-Code-Remix
 Re-mix of the weekly topics of [ICM-2021-Code](https://github.com/ITPNYU/ICM-2021-Code)
 
 ## ICM Weekly Re-mix

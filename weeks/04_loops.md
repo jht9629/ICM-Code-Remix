@@ -13,9 +13,9 @@
 
 <!-- Repeated from objects -->
 <!-- ## Arrays
-* [video - 7.1 What is an array?](https://thecodingtrain.com/beginners/p5js/7.1-what-is-an-array.html) (~14 min)  
+* [video - 7.1 What is an array?](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/1-arrays) (~14 min)  
     - [sketch - click for next word](https://editor.p5js.org/codingtrain/sketches/DmwVbhOZ)
-* [video - 7.2 Arrays and loops](https://thecodingtrain.com/beginners/p5js/7.2-arrays-loops.html) (~9 min)  
+* [video - 7.2 Arrays and loops](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/2-arrays-loops) (~9 min)  
   - [sketch - circles from array](https://editor.p5js.org/codingtrain/sketches/ZnPevren)
 -->
 <!-- !!@ Update to use let -->
@@ -42,16 +42,15 @@ JHT Week 4 Worksheet
     * [Code as Creative Medium](https://www.amazon.com/gp/product/0262542048)
 
 ## tutorials: while-loops and for-loops
-* [video 4.1: `while` and `for`](https://thecodingtrain.com/beginners/p5js/4.1-while-for.html
-) (~14 min)
+* [video 4.1: `while` and `for`](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/4-loops/1-while-for) (~14 min)
   * [sketch - while for ](https://editor.p5js.org/codingtrain/sketches/1B6jhzI6)
-* [video 4.2: nested loops](https://thecodingtrain.com/beginners/p5js/4.2-nested-loops.html) (~10 min)
+* [video 4.2: nested loops](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/4-loops/2-nested) (~10 min)
   * [sketch - nested loops](https://editor.p5js.org/codingtrain/sketches/nxJTfiJd)
 
 <!-- ## tutorials: Arrays
-* [video - 7.1 What is an array?](https://thecodingtrain.com/beginners/p5js/7.1-what-is-an-array.html) (~14 min)  
+* [video - 7.1 What is an array?](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/1-arrays) (~14 min)  
     - [sketch - click for next word](https://editor.p5js.org/codingtrain/sketches/DmwVbhOZ)
-* [video - 7.2 Arrays and loops](https://thecodingtrain.com/beginners/p5js/7.2-arrays-loops.html) (~9 min)  
+* [video - 7.2 Arrays and loops](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/2-arrays-loops) (~9 min)  
   - [sketch - circles from array](https://editor.p5js.org/codingtrain/sketches/ZnPevren)
  -->
 <!-- * [4.1: `while` and `for` - video tutorial](https://www.youtube.com/watch?v=cnRD9o6odjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=14) -->

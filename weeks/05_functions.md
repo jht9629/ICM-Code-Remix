@@ -46,7 +46,7 @@ action(ent1)
 
 ## tutorials: Modularity
 
-- [video 5.1: Function Basics](https://thecodingtrain.com/beginners/p5js/5.1-function-basics.html) (~13 min)
+- [video 5.1: Function Basics](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/5-functions/1-basics) (~13 min)
   - [sketch - Function Basics ball](https://editor.p5js.org/codingtrain/sketches/omHOuJY1) 
   - [sketch - Bouncing ball with functions](https://editor.p5js.org/icm/sketches/H1Oq4qta)
 
@@ -59,14 +59,14 @@ array remove
 
 ## tutorials: Re-usability
 
-- [video 5.2: Function Parameters and Arguments](https://thecodingtrain.com/beginners/p5js/5.2-parameters-arguments.html) (~11 min)
+- [video 5.2: Function Parameters and Arguments](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/5-functions/2-arguments) (~11 min)
   - [sketch - lollipop](https://editor.p5js.org/codingtrain/sketches/eGD-xzsw)
   - [sketch - Dice no functions](https://editor.p5js.org/icm/sketches/ryx70m5tT)
   - [sketch - Dice w/ functions](https://editor.p5js.org/icm/sketches/S1R44qtT)
   - [sketch - Robots from Getting Started with p5.js Code Example](https://editor.p5js.org/icm/sketches/rylf4S5K6)
 <!-- >> !!@ expand with object literals -->
 
-- [video 5.3: Functions and Return](https://thecodingtrain.com/beginners/p5js/5.3-return.html) (~8 min)
+- [video 5.3: Functions and Return](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/5-functions/3-return) (~8 min)
   - [sketch - milesToKm](https://editor.p5js.org/codingtrain/sketches/twpIiI-v)
   - [sketch - Implementing distance function](https://editor.p5js.org/icm/sketches/HJgR7UcKa)
 

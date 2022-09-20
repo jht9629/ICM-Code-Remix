@@ -29,17 +29,17 @@ JHT Week 3 Worksheet
 
 ## tutorials: Conditional Statements
 
-* [video 3.1: Introduction to Conditional Statements ](https://thecodingtrain.com/beginners/p5js/3.1-conditional-statements.html) (~12 min)
+* [video 3.1: Introduction to Conditional Statements ](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/1-conditionals) (~12 min)
   * `if` statement
   * relational operators (`>`, `<`, `<=`, `>=`, `==`, `===`, `!==`)
   * [sketch - if mouseX](https://editor.p5js.org/codingtrain/sketches/z_yjYIha)
-* [video 3.2: Bouncing Ball](https://thecodingtrain.com/beginners/p5js/3.2-bouncing-ball.html) (~8 min)
+* [video 3.2: Bouncing Ball](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/2-bouncing) (~8 min)
   * [sketch - bouncing ball x](https://editor.p5js.org/codingtrain/sketches/Xm4cmQvU) <!-- >> does not bounce!! -->
   * [sketch - bouncing ball xy](https://editor.p5js.org/icm/sketches/BJKWv5Tn)
   <!-- >> bounces x and y -->
   <!-- >> simpler example that does with going off on left -->
   <!-- println -> console.log -->
-* [video 3.3: else, else if, and, or](https://thecodingtrain.com/beginners/p5js/3.3-else-elseif-and-or.html) (~17 min)
+* [video 3.3: else, else if, and, or](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/3-else-if-and-or) (~17 min)
   * [sketch - if mouseX](https://editor.p5js.org/codingtrain/sketches/In-bIB8w) <!-- * [sketch - if mouseX AND](https://editor.p5js.org/jht1493/sketches/pK7xE8hN3) -->
   * [sketch - else if](https://editor.p5js.org/jht1493/sketches/VmJD4ZUMJ)
   * [sketch - bounce ball x OR](https://editor.p5js.org/jht1493/sketches/G1WHVQsRV)
@@ -49,7 +49,7 @@ JHT Week 3 Worksheet
   <!-- else if not essential -->
   <!-- >> ?? add better example -->
   <!-- otherwise -->
-* [video 3.4: Boolean variables](https://thecodingtrain.com/beginners/p5js/3.4-boolean-variables.html) (~20 min)
+* [video 3.4: Boolean variables](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/4-boolean) (~20 min)
   <!-- * [sketch - Boolean variables](https://editor.p5js.org/codingtrain/sketches/yzBpV0CI) !!@ Does not match video -->
   * [sketch - Boolean variables](https://editor.p5js.org/jht1493/sketches/1IcyZZamQ)
   <!-- sketch correct to match video -->

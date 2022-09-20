@@ -47,7 +47,7 @@ Homework Form (Responses) - ICM CODE JHT
   * What is the difference between p5 and JavaScript?
 
 ## Participating in an open-source community
-  * [What is git and github?](https://thecodingtrain.com/beginners/git-and-github/1-introduction.html)
+  * [What is git and github?](https://thecodingtrain.com/tracks/git-github-for-poets/git/1-fundamentals/1-intro)
   * When should you post to a forum vs. file a github issue?
   * Who makes these things?
 
@@ -65,32 +65,31 @@ Homework Form (Responses) - ICM CODE JHT
 ## tutorials: Drawing
 
 <!-- Code! Programming with p5.js -->
-<!-- https://thecodingtrain.com/beginners/p5js/index.html -->
 
 * Programming for Beginners with p5.js
-  * [video 1.1 Introduction](https://thecodingtrain.com/beginners/p5js/1.1-introduction.html) (~13 min)
+  * [video 1.1 Introduction](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/1-intro/1-intro) (~13 min)
 <!-- * [Introduction to Code with p5.js Video](https://youtu.be/yPWkPOfnGsw) -->
 
 * p5.js Web Editor Tutorial
-  * [video 1.2 p5.js Web Editor](https://thecodingtrain.com/beginners/p5js/1.2-p5js-web-editor.html) (~8 min)
+  * [video 1.2 p5.js Web Editor](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/1-intro/2-web-editor) (~8 min)
 <!-- * [p5.js Web Editor Tutorial](https://youtu.be/MXs1cOlidWs) -->
 
 * Shapes & Drawing 
-  * [video 1.3 Shapes and Drawing](https://thecodingtrain.com/beginners/p5js/1.3-shapes-and-drawing.html) (~26 min)
+  * [video 1.3 Shapes and Drawing](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/1-intro/3-shapes-drawing) (~26 min)
   * [sketch - Shapes and Drawing](https://editor.p5js.org/codingtrain/sketches/HJ1WjEPwQ)
 <!-- * [Shapes & Drawing video tutorial](https://youtu.be/c3TeLi6Ns1E) -->
 
 * Color 
-  * [video 1.4 Color](https://thecodingtrain.com/beginners/p5js/1.4-color.html) (~18 min)
+  * [video 1.4 Color](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/1-intro/4-color) (~18 min)
   * [sketch - Color](https://editor.p5js.org/codingtrain/sketches/rJ9MQSwvm)
 <!-- * [Color video tutorial](https://youtu.be/riiJTF5-N7c) -->
 
 * Errors and Console
-  * [video 1.5 Errors and Console](https://thecodingtrain.com/beginners/p5js/1.5-errors-and-console.html) (~7 min)
+  * [video 1.5 Errors and Console](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/1-intro/5-errors) (~7 min)
 <!-- * [Errors and Console Video Tutorial](https://youtu.be/LuGsp5KeJMM) -->
 
 * Code Comments
-  * [video 1.6 Code Comments](https://thecodingtrain.com/beginners/p5js/1.6-code-comments.html) (~7 min)
+  * [video 1.6 Code Comments](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/1-intro/6-comments) (~7 min)
 <!-- * [Code Comments Video Tutorial](https://youtu.be/xJcrPJuem5Q) -->
 
 ## p5.js references
@@ -107,7 +106,7 @@ Homework Form (Responses) - ICM CODE JHT
       * Suggestion: [Eyeo 2019 - Amon Millner](https://vimeo.com/355843375)
 
 ### More on p5
-* [All introductory p5.js videos](https://thecodingtrain.com/beginners/p5js/)
+* [All introductory p5.js videos](https://thecodingtrain.com/tracks/code-programming-with-p5-js)
 <!-- (https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) -->
 * Comparing Processing and p5.js
   * [Part 1 video](https://youtu.be/AmlAiKsiy0o) (~17 min)
